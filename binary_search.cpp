@@ -1,11 +1,5 @@
-//SHUBHAM AGARWAL
-//130
 
-//DAA Assignment 1.1
-
-//TITLE: Design and implement Binary search algorithm using 'Divide and Conquer' method for a given input. Determine the time required to search an element. Implement randomized algorithm for binary search and also analyze the time complexity of both algorithm.
-
-//PART1: Binary Search using 'Divide and Conquer' stratergy.
+//TITLE: Design and implement Binary search algorithm using 'Divide and Conquer' method for a given input. 
 
 //CODE:
 
@@ -102,21 +96,4 @@ The sorted array is:
 Enter the element to be searched
 5
 Element found at 5
-
-
-//TIME ANALYSIS:
-
-
-
-    1 = N / 2x
-
-multiply by 2x:
-
-    2x = N
-
-now do the log2:
-
-    log2(2x)    = log2 N
-    x * log2(2) = log2 N
-    x * 1         = log2 N
 
